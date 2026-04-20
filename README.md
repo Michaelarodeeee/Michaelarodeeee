@@ -63,5 +63,13 @@ I’m learning how to build secure and scalable systems 🚀
 - Database: SQLite  
 
 ---
+## 🔮 Future Projects
+- 🛡️ Password Strength Checker (Python)
+- 🌐 Vulnerability Scanner
+- 🔐 Secure Authentication System
+- 🧠 Keylogger Detection Tool
+- 📊 Network Packet Analyzer
+- ⚙️ CLI Task Manager
 
+  
 ⭐ Always learning. Always building.
