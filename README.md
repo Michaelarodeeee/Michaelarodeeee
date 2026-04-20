@@ -42,7 +42,8 @@ Aspiring Software Engineer 💻 | Cybersecurity Learner 🔐
 ---
 
 ### 📫 How to reach me
-- Email: 2345561@uhv.edu  
+- Student Email: 2345561@uhv.edu
+- Personal Email: michaelarodeemj@gmail.com
 
 ---
 
